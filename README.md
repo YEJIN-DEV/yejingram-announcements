@@ -1,2 +1,10 @@
 # yejingram-announcements
-Repository for public announcements for Yejingram
+
+Repository for publishing announcements for [Yejingram](https://github.com/YEJIN-DEV/yejingram)
+
+This repository contains the source files for announcements related to Yejingram. It is intended for use by the Yejingram team to manage and publish important updates and information.
+
+## Structure
+
+- `patchnotes`
+- `servicenotes`
