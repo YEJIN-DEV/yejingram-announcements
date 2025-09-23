@@ -7,4 +7,10 @@ This repository contains the source files for announcements related to Yejingram
 ## Structure
 
 - `patchnotes`
+  - `en`
+  - `ja`
+  - `ko`
 - `servicenotes`
+  - `en`
+  - `ja`
+  - `ko`
